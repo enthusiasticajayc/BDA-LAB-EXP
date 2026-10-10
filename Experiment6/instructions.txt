@@ -1,0 +1,6 @@
+Experiment 6: Implement word count / frequency programs using MapReduce
+
+Execution Command:
+chmod +x mapper.py
+chmod +x reducer.py
+cat data.txt | ./mapper.py | sort | ./reducer.py

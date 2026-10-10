@@ -1,0 +1,7 @@
+Experiment 9: Implement an application that stores big data in MongoDB/Pig Using Hadoop / R
+
+Execution Command:
+hadoop jar /path/to/mongo-hadoop-core.jar com.mongodb.hadoop.MongoInputFormat \
+-D mongo.job.input.uri=file:///dev/null \
+-D mongo.job.output.uri=mongodb://localhost:27017/bigdata_db.transactions \
+-mapper /path/to/mapper.py
