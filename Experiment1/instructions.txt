@@ -1,0 +1,8 @@
+Experiment 1: Install, configure and run Python, NumPy and Pandas
+
+Installation Process:
+Head over to anaconda.com and download the latest version of Anaconda (Anaconda3 2019.10 64-bit setup for Python 3.7).
+Run the installer, accept the License Agreement, and select "Just Me" for the installation type.
+Choose the destination folder for the installation.
+In the Advanced Installation Options, check "Register Anaconda as my default Python 3.7" (Adding to PATH is not recommended) and click Install.
+Once the installation is done, open Anaconda Navigator from the Windows Start Menu to launch Jupyter.

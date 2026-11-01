@@ -1,0 +1,4 @@
+Experiment 3: Visualize data using basic plotting techniques in Python
+
+Ensure you have the crime.csv dataset in the same directory.
+Run the python script exp3.py to visualize the data using different plot types.
