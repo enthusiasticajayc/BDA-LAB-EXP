@@ -1,3 +1,4 @@
-Hello world, this is a test.
-Hello again, world.
-MapReduce is cool.
+hello world
+hello python
+world python
+hello

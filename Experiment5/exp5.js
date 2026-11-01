@@ -1,4 +1,4 @@
-use store;
+db = db.getSiblingDB("store");
 
 db.products.insertMany([
     { "name": "Laptop", "category": "Electronics", "price": 1200, "stock": 50, "rating": 4.5 },
